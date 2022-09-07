@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clauze1437&label=Profile%20views&color=0e75b6&style=flat" alt="clauze1437" /> </p>
 
-- 🌱 I’m currently learning **Webpack**
+- 🌱 I’m currently learning **Webpack Javascript**
 
 - 💬 Ask me about **React js,vue**
 
