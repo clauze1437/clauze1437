@@ -12,6 +12,8 @@
 - ⚡ Fun fact **I like to play dota 2**
 
 Get in touch with me through:
+
 -Linkedin: https://www.linkedin.com/in/eurusk/
+
 -Instagram: https://www.instagram.com/angga.kusumaa/
 
