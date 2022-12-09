@@ -3,7 +3,6 @@
 
 
 
-- 🌱 I’m currently learning **Stay Hungry Stay Foolish :D**
 
 - 💬 Still learning about **React js,vue js**
 
