@@ -1,4 +1,4 @@
-<h1 align="center"> Front-End Development👋</h1>
+<h1 align="center"> Front-End Development</h1>
 
 
 
