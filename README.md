@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Angga Kusuma</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Front-End Development</h3>
 
 
 
-- 🌱 I’m currently learning **Webpack Javascript**
+- 🌱 I’m currently learning **Stay Hungry Stay Foolish :D**
 
 - 💬 Still learning about **React js,vue js**
 
