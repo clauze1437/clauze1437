@@ -16,3 +16,5 @@ Get in touch with me through:
 
 -Instagram: https://www.instagram.com/angga.kusumaa/
 
+-Discord: Eurus#6478
+
