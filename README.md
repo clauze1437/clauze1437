@@ -83,7 +83,7 @@
 <h2 align="center">📖 Currently I learn 📖</h2>
 <br>
 <p>
-    <strong>☕  (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
+    <strong>☕  (NodeJS, ReactJS, ExpressJS, MongoDB,Laravel)</strong>
   </a>
 
 
