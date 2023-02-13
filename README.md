@@ -83,11 +83,11 @@
 <h2 align="center">📖 Currently I learn 📖</h2>
 <br>
 <p>
-    <strong>☕  (NodeJS, ReactJS, ExpressJS, MongoDB,Laravel)</strong>
+    <strong>☕  (NodeJS, ReactJS,VueJS, ExpressJS, MongoDB,Laravel)</strong>
   </a>
 
 
-
+#My inspiration
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
