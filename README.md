@@ -73,8 +73,8 @@
   <a href="https://www.instagram.com/angga.kusumaa/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="angga-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:manggakusuma810@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="angga-email" />
   </a>
 </div>
 
